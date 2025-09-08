@@ -1,6 +1,6 @@
 # ADC Lab Manual – Exercises Summary
 
-This repository contains the laboratory practices using **MATLAB** for the **Analog and Digital Communications(ADC)** course, part of my Bachelor's in Audiovisual Systems Engineering.
+This repository contains the laboratory practices using **MATLAB** for the **Analog and Digital Communications (ADC)** course, part of my Bachelor's in Audiovisual Systems Engineering.
 The following is a translated and summarized description of each exercise.
 
 The official instructions in Catalan are available in the [open access PDF](https://upcommons.upc.edu/entities/publication/7eb2f4de-ec0f-41f4-aea6-4fc11150b017) published by **Francesc Molina Oliveras** and **José Sala Álvarez**.
